@@ -1,0 +1,45 @@
+NAME_CHARACTER	Name
+LEVEL_CHARACTER	Level
+NO_NAME_DESC	No name
+NO_GUILD_DESC	No guild
+NO_CLASS_DESC	No class
+LOGIN_INTERFACE_SAVE_EMPTY	Empty
+LOGIN_INTERFACE_SAVE_SUCCES	The information has been saved
+LOGIN_INTERFACE_SAVE_FAIL	The information has not been saved
+LOGIN_INTERFACE_DELETE_FAIL	The information was not deleted
+LOGIN_INTERFACE_SAVE_SLOT_EMPTY	Sorry, you must save an account to enter.
+LOGIN_INTERFACE_LOGIN_SAVE_BUTTON	Click to enter your account or F1 to F6.
+LOGIN_INTERFACE_DELETE_FAIL	The information was not deleted
+LOGIN_INTERFACE_SAVE_BUTTON	First you have to enter the data, after pressing this button to save it, After saving your account you can use the keys from F1 to F6 to enter it.
+LOGIN_INTERFACE_DELETE_BUTTON	If you want to make room for another account, click this button.
+LOGIN_INTERFACE_SELECT_CHANNEL	Click to select this channel.
+LOGIN_INTERFACE_TEXT_INPUT_ID	Enter Your Username..
+LOGIN_INTERFACE_TEXT_INPUT_PASS	Enter Your Password..
+LOGIN_INTERFACE_REGISTER	Sign up now!
+LOGIN_INTERFACE_PW_LOST	Forgot your password?
+LOGIN_INTERFACE_LOGIN	Log in
+LOGIN_INTERFACE_EXIT	Exit
+LOGIN_INTERFACE_CHANNEL_SELECTED	Selected Channel: 
+LOGIN_INTERFACE_TITLE_LANG	Select Language
+LOGIN_INTERFACE_COPYRIGHT	Copyright ©Merlis2. All rights reserved Design and Coded by werednnbs
+SELECT_CHARACTER_NAME_CHARACTER	Name
+SELECT_CHARACTER_LEVEL_CHARACTER	Level
+SELECT_CHARACTER_NO_NAME_DESC	No name
+SELECT_CHARACTER_NO_GUILD_DESC	No guild
+SELECT_CHARACTER_NO_CLASS_DESC	No class
+SELECT_CHARACTER_TITLE	Select your character
+SELECT_CHARACTER_GUILD_CHARACTER	Guild
+SELECT_CHARACTER_PLAYTIME_CHARACTER	Playtime
+SELECT_CHARACTER_EMPIRE_CHARACTER	Empire
+SELECT_CHARACTER_CLASS_CHARACTER	Race
+CREATE_CHARACTER_TITLE	Create your character
+SELECT_EMPIRE_TITLE	Select your empire
+CHARACTER_INFO_TITLE	Character information
+CHARACTERWINDOW_LV	Lv.
+CHARACTERWINDOW_EXP	Experience
+CHARACTERWINDOW_EXP_NECESSARY	Necessary Exp.
+CHARACTERWINDOW_STATUS	Character Status
+CHARACTERWINDOW_ATTR	Character Attributes
+CHARACTERWINDOW_AVAILABLE	Available [       ]
+SYSTEM_TITLE	System options
+LOGIN_INTERFAE_TITLE_BOARD	Welcome to Merlis2.
