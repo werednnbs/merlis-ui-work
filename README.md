@@ -7,7 +7,7 @@ Installation? Contact me..
 
 https://linktr.ee/werednnbs!
 
-[image4](https://github.com/werednnbs/merlis-ui-work/assets/70537715/3b0deaaf-16b1-46d5-b8dc-32731d7df24e)
+![image4](https://github.com/werednnbs/merlis-ui-work/assets/70537715/827e92dc-a7a7-4b82-94a5-23a5afba4f89)
 
 ![image](https://github.com/werednnbs/merlis-ui-work/assets/70537715/dbfa301e-fa91-47ab-83d1-28b01fb64ae3)
 
