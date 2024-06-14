@@ -16,7 +16,7 @@ https://linktr.ee/werednnbs!
 
 For installation..
 
-All the interface coding is placed on the sentence.
+All the interface coding is placed on the function on the each file.
 
 if app.ENABLE_WEREDNNBS_UIGAME:
 
