@@ -19,5 +19,11 @@ For installation..
 All the interface coding is placed on the function on the each file.
 
 if app.ENABLE_WEREDNNBS_UIGAME:
+..
+else
+..
 
 ![image_2020_09_19T22_01_56_608Z](https://github.com/werednnbs/merlis-ui-work/assets/70537715/cf426831-e6aa-43ab-80f9-a27cd3d691d3)
+
+Best regards
+wered
